@@ -1,1 +1,2 @@
-# Lyrics-Generator
+# Lyrics-Finder
+Lyrics Finder Application
